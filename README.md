@@ -1,6 +1,4 @@
-# Hi, I'm Aasim 👋🏾 👩🏾‍💻
-
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=aasim3101&color=brightgreen">  
+# Hi, I'm Aasim 👋🏾 👩🏾‍💻  
 
 ## 👨🏻‍💻 &nbsp;About Me
 
