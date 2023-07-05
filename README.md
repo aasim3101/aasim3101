@@ -4,10 +4,10 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently doing Bachelor of Technology in Computer Science at Doon Institute of Engineering and Technology, Rishikesh.\
-💡 &nbsp;Some technologies I enjoy working with include JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.\
-🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Data Structure, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at aasimqureshi31jan@gmail.com! I'll try to respond as soon as I can.
+🎓 &nbsp; I completed my B.tech in Computer Science from Doon Institute of Engineering and Technology, Rishikesh in 2023.\
+💡 &nbsp; I made projects using HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, etc.\
+🌱 &nbsp; I am proficient in Data Structure and Algorithms.\
+✉️ &nbsp; You can shoot me an email at aasimqureshi31jan@gmail.com! I'll try to respond as soon as I can.
 
 ## ✍ My Work
 ![Mohd Aasim Qureshi's github stats](https://github-readme-stats.vercel.app/api?username=aasim3101&show_icons=true&theme=radical)
